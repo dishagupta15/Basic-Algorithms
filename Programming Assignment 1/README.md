@@ -30,37 +30,37 @@ a, b - planet names (which names might not exist in the database).
 
 Sample Input 0
 
-3
-earth 10
-venus 30
-jupiter 5
-2
-earth jupiter
-earth venus
+3  
+earth 10  
+venus 30  
+jupiter 5  
+2  
+earth jupiter  
+earth venus  
 
 Sample Output 0
 
-earth 10
-jupiter 5
-earth 10
-jupiter 5
-venus 30
+earth 10  
+jupiter 5  
+earth 10  
+jupiter 5  
+venus 30  
 
 Sample Input 1
 
-3
-earth 10
-venus 30
-jupiter 5
-2
-a z
-venus earth
+3  
+earth 10  
+venus 30  
+jupiter 5  
+2  
+a z  
+venus earth  
 
 Sample Output 1
 
-earth 10
-jupiter 5
-venus 30
-earth 10
-jupiter 5
-venus 30
+earth 10  
+jupiter 5  
+venus 30  
+earth 10  
+jupiter 5  
+venus 30  
